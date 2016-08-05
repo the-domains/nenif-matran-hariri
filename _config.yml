@@ -1,4 +1,3 @@
-layout_spectrum: 0.20212072622962296
 typography_spectrum: 0.3079007288906723
 color:
   brandStrength: 0.34558553993701935
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.20212072622962296
 name: Nenif Matran Hariri
 title: Things
+description: that have inspired
