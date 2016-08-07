@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.20212072622962296
 name: Nenif Matran Hariri
+navigation:
+  - name: about me
+    id: 148448ea-e637-435b-96ac-359f2b85dde5
+    type: content
 title: Things
 description: '''''that inspire'''''
